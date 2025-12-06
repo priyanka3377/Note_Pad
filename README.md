@@ -46,17 +46,24 @@ The app uses Firebase Realtime Database for storing notes.
 Make sure your database rules allow read/write access for authenticated users (or public for testing):
 
 {
+
   "rules": {
+
     ".read": true,
+    
     ".write": true
+  
   }
+
 }
 
 
 ⚠️ For production, secure your database properly.
 
 Project Structure 🗂️
+
 Note_Pad/
+
 ├── app/
 
 │   ├── java/com/example/notepad/
