@@ -58,16 +58,27 @@ Make sure your database rules allow read/write access for authenticated users (o
 Project Structure 🗂️
 Note_Pad/
 ├── app/
+
 │   ├── java/com/example/notepad/
-│   │   ├── MainActivity.java       # Displays list of notes
+
+│   │   ├── MainActivity.java     # Displays list of notes
+
 │   │   ├── AddNoteActivity.java    # Add new notes
+
 │   │   ├── NotesAdapter.java       # RecyclerView adapter
+
 │   │   └── CardModel.java          # Note model
+
 │   └── res/
+
 │       ├── layout/                  # XML layouts
+
 │       └── drawable/                # Icons, images
+
 ├── build.gradle
+
 ├── settings.gradle
+
 └── README.md
 
 Future Enhancements 💡
