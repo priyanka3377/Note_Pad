@@ -3,7 +3,7 @@ Note_Pad 📝
 A simple Android note-taking app built with Java and Firebase Realtime Database.
 Easily add, view, and manage your notes in a clean and intuitive interface.
 
-Features ✨
+✨ Features 
 
 Add new notes with title and content
 
@@ -15,7 +15,7 @@ Clean and responsive UI
 
 Edit and delete notes (optional enhancement)
 
-Installation 🚀
+🚀 Installation 
 
 Clone the repository
 
@@ -60,7 +60,7 @@ Make sure your database rules allow read/write access for authenticated users (o
 
 ⚠️ For production, secure your database properly.
 
-Project Structure 🗂️
+🗂️ Project Structure 
 
 Note_Pad/
 
@@ -88,7 +88,7 @@ Note_Pad/
 
 └── README.md
 
-Future Enhancements 💡
+💡 Future Enhancements 
 
 Add categories or tags for notes
 
@@ -98,6 +98,10 @@ Use Firebase Authentication to manage users
 
 Add dark mode for better UX
 
-Contributing 🤝
+🤝 Contributing 
 
 Contributions are welcome! For major changes please open an issue first to discuss changes. Suggestions are welcomed!
+
+📬 Contact
+
+If you have any doubts, feel free to reach out! priyankataduri33@gmail.com
